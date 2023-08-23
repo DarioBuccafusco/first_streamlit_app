@@ -50,7 +50,7 @@ except URLError as e:
    streamlit.error()
 
 
-streamlit.stop()
+#streamlit.stop()
 
 #add_my_fruit = streamlit.text_input('What fruit would you want to add?','Kiwi')
 #streamlit.write('The user want tot add ' , add_my_fruit)
